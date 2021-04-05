@@ -1,0 +1,192 @@
+# Translation of Themes - MyWiki in French (France)
+# This file is distributed under the same license as the Themes - MyWiki package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-11-30 11:53:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - MyWiki\n"
+
+#. Theme Name of the theme
+msgid "MyWiki"
+msgstr "MyWiki"
+
+#. Template Name of the theme
+msgid "Wiki template"
+msgstr "Modèle de Wiki"
+
+#. Template Name of the theme
+msgid "Full Page"
+msgstr "Page entière"
+
+#: tag.php:9
+msgid "Tag"
+msgstr "Mots-clés"
+
+#: searchform.php:8 searchform.php:9 search.php:8
+msgid "Search"
+msgstr "Rechercher"
+
+#: header.php:65
+msgid "Have a Question? Write here and press enter"
+msgstr "Vous avez une question? Écrivez-la ici et appuyer sur entrée"
+
+#: function/theme-default-setup.php:177
+msgid "Read more"
+msgstr "Lire la suite"
+
+#: function/theme-default-setup.php:177
+msgid "read more..."
+msgstr "Lire la suite..."
+
+#: functions.php:198
+msgid "Edit"
+msgstr "Modifier"
+
+#. translators: 1 is post date , 2 is post time
+#: functions.php:195
+msgid "%1$s at %2$s"
+msgstr "%1$s à %2$s"
+
+#. translators: 1 is author link
+#: functions.php:190
+msgid "%s says:"
+msgstr "%s a dit:"
+
+#. translators: 1 is title
+#: functions.php:103
+msgid "Page %s"
+msgstr "Page %s"
+
+#: function/theme-default-setup.php:35
+msgid "Footer Content Area 3"
+msgstr "Zone de contenu du pied 3"
+
+#: function/theme-default-setup.php:26
+msgid "Footer Content Area 2"
+msgstr "Zone de contenu du pied 2"
+
+#: function/theme-default-setup.php:18 function/theme-default-setup.php:27
+#: function/theme-default-setup.php:36
+msgid "Used on Footer."
+msgstr "Utilisé dans le pied :"
+
+#: function/theme-default-setup.php:17
+msgid "Footer Content Area 1"
+msgstr "Zone de contenu du pied 1"
+
+#: function/theme-default-setup.php:9
+msgid "Used on every page."
+msgstr "Utilisé sur chaque page."
+
+#: function/theme-default-setup.php:8
+msgid "Main Sidebar"
+msgstr "Colonne principale"
+
+#: function/theme-default-setup.php:130
+msgid "Recent Posts"
+msgstr "Articles récents"
+
+#: function/theme-default-setup.php:124
+msgid "Displays most recent posts by post count"
+msgstr "Affichage des articles les plus récents par nombre d’article."
+
+#: function/theme-default-setup.php:116
+msgid "Use 0 for no time limit."
+msgstr "Utilisez 0 pour aucune limite de temps."
+
+#: function/theme-default-setup.php:113
+msgid "Posted in the past X days"
+msgstr "Publiés dans les X jours passés."
+
+#: function/theme-default-setup.php:109 function/theme-default-setup.php:165
+msgid "Number of Posts"
+msgstr "Nombre De Messages "
+
+#: function/theme-default-setup.php:105 function/theme-default-setup.php:161
+msgid "Title"
+msgstr "Titre"
+
+#: function/theme-default-setup.php:59
+msgid "Popular Posts"
+msgstr "Articles populaires"
+
+#: function/theme-default-setup.php:53
+msgid "Displays most popular posts by comment count"
+msgstr "Affichage des articles les plus populaires par nombre de commentaires."
+
+#: functions.php:37
+msgid "Footer Links"
+msgstr "Liens du pied de page"
+
+#: functions.php:36
+msgid "The Main Menu"
+msgstr "Le menu principal"
+
+#: comments.php:55
+msgid "Comment"
+msgstr "Commentaire"
+
+#: comments.php:51
+msgid "E-Mail"
+msgstr "E-mail"
+
+#: comments.php:47
+msgid "Your Name"
+msgstr "Votre nom"
+
+#: comments.php:43
+msgid "Submit Comment"
+msgstr "Soumettre le commentaire"
+
+#: comments.php:42
+msgid "LEAVE A COMMENT"
+msgstr "Laisser un commentaire"
+
+#: category.php:9
+msgid "Category"
+msgstr "Catégorie"
+
+#: author.php:9
+msgid "Author"
+msgstr "Auteur"
+
+#: attachment.php:30 index.php:33
+msgid "Sorry, but the requested resource was not found on this site."
+msgstr "Désolé, la ressource demandée n'a pas été trouvée sur ce site."
+
+#: attachment.php:27 index.php:28
+msgid "Not Found"
+msgstr "Introuvable"
+
+#: archive.php:9
+msgid "Archives"
+msgstr "Archives"
+
+#: 404.php:12
+msgid "Whatever you were looking for was not found, but maybe try looking again or search using the form below."
+msgstr "Ce que vous cherchez n'a pas été trouvé. Essayez de trouver à nouveau ou effectuez une recherche avec le formulaire ci-dessous."
+
+#: 404.php:8
+msgid "This is embarassing. We can't find what you were looking for."
+msgstr "C'est embarrassant. Nous ne pouvons pas trouver ce que vous recherchez."
+
+#: 404.php:7
+msgid "Epic 404 - Article Not Found"
+msgstr "Erreur 404 - Article non trouvé."
+
+#. Author URI of the theme
+msgid "http://fasterthemes.com/"
+msgstr "http://fasterthemes.com/"
+
+#. Author of the theme
+msgid "FasterThemes"
+msgstr "FasterThemes"
+
+#. Theme URI of the theme
+msgid "http://fasterthemes.com/wordpress-themes/mywiki"
+msgstr "http://fasterthemes.com/wordpress-themes/mywiki"
